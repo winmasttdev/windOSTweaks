@@ -3,7 +3,7 @@
 A program for **tweaking**, **optimizing**, and **cleaning** your windOS.
 
 > [!NOTE]
-> The approximate release date for the first release is from mid-February to mid-March.
+> Project canceled.
 
 > [!WARNING]
 > This program can ONLY be used with windOS, as it was developed specifically for it.
